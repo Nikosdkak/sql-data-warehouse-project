@@ -16,4 +16,18 @@ Integration: Combine both sources into a single, user-friendly data model design
 Scope: Focus on the latest dataset only; historization of data is not required.
 Documentation: Provide clear documentation of the data model to support both business stakeholders and analytics teams.
 
+I used the medallion architecture
+
 ![image](https://github.com/user-attachments/assets/8aa7bc07-6b2e-4ead-8ffe-bb64115f98b4)
+
+
+![image](https://github.com/user-attachments/assets/ec713c89-b562-4072-be8d-e1d46a6d9a8f)
+
+
+
+![image](https://github.com/user-attachments/assets/1d49e7d4-b17a-4f9e-b0fd-8f644cfd12cd)
+
+
+
+
+
